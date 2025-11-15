@@ -356,7 +356,7 @@ end
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "Zynn 〢 YAHAYUK V2",
+    Title = "Zynn〢Exploit",
     Icon = "lucide:mountain-snow",
     Author = "zynXExploit",
     Folder = "zynXExploit",
