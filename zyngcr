@@ -494,6 +494,7 @@ local mountRoutes = {
     ["⛰️️ mt mono"] = "https://raw.githubusercontent.com/neeoXCode969/mono/refs/heads/main/monno.lua",
     ["🏞️️ kota bukan gunung"] = "https://raw.githubusercontent.com/neeoXCode969/Zyb/refs/heads/main/kotabukangng.lua",
     ["⛰️️ mt ragon"] = "https://raw.githubusercontent.com/neeoXCode969/ragoong/refs/heads/main/Replay.lua",
+    ["🏞 malaikat"] = "https://raw.githubusercontent.com/neeoXCode969/ikat/refs/heads/main/malaikat.lua",
 }
 
 -- Dropdown Mount
