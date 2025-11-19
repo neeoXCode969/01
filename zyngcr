@@ -500,6 +500,7 @@ local mountRoutes = {
     ["⛰️ MT Kamu"] = "https://raw.githubusercontent.com/neeoXCode969/kamusukamy/refs/heads/main/jwmbut.lua",
     ["🏞 MT Funyy"] = "https://raw.githubusercontent.com/neeoXCode969/Fixfuny/refs/heads/main/funnyfix.lua",
     ["⛰️ MT Yagesya"] = "https://raw.githubusercontent.com/neeoXCode969/yagesya/refs/heads/main/Replay.lua",
+    ["🏞 MT Netizen"] = "https://raw.githubusercontent.com/neeoXCode969/Bagen/refs/heads/main/netizen.lua",
 }
 
 -- Dropdown Mount
