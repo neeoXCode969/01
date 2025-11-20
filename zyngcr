@@ -502,6 +502,7 @@ local mountRoutes = {
     ["⛰️ MT Yagesya"] = "https://raw.githubusercontent.com/neeoXCode969/yagesya/refs/heads/main/Replay.lua",
     ["🏞 MT Netizen"] = "https://raw.githubusercontent.com/neeoXCode969/Bagen/refs/heads/main/netizen.lua",
     ["👾 Mount Zora"] = "https://raw.githubusercontent.com/neeoXCode969/Zora/refs/heads/main/zora.lua",
+    ["🌷 Mount Forever" = "https://raw.githubusercontent.com/neeoXCode969/Forever-/refs/heads/main/forever.lua",
 }
 
 -- Dropdown Mount
@@ -761,7 +762,7 @@ Draggable = true,
 
 -- Tambah tag
 Window:Tag({
-    Title = "FREE USER",
+    Title = "FREE",
     Color = Color3.fromHex("#30ff6a"),
     Radius = 10,
 })
