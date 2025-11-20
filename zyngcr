@@ -502,7 +502,7 @@ local mountRoutes = {
     ["⛰️ MT Yagesya"] = "https://raw.githubusercontent.com/neeoXCode969/yagesya/refs/heads/main/Replay.lua",
     ["🏞 MT Netizen"] = "https://raw.githubusercontent.com/neeoXCode969/Bagen/refs/heads/main/netizen.lua",
     ["👾 Mount Zora"] = "https://raw.githubusercontent.com/neeoXCode969/Zora/refs/heads/main/zora.lua",
-    ["🌷 Mount Forever" = "https://raw.githubusercontent.com/neeoXCode969/Forever-/refs/heads/main/forever.lua",
+    ["🌷 Mount Forever"] = "https://raw.githubusercontent.com/neeoXCode969/Forever-/refs/heads/main/forever.lua",
 }
 
 -- Dropdown Mount
@@ -515,7 +515,7 @@ MainTab:Dropdown({
         for k,_ in pairs(mountRoutes) do table.insert(t, k) end
         return t
     end)(),
-    Value = "pilih mount",
+    Value = "Pilih Mount",
     Callback = function(mount)
         selectedMount = mount
         notify("Select Mountain", "Dipilih: " .. mount, 2)
@@ -721,7 +721,7 @@ InfoTab:Button({
 
 -- Info Tab
 InfoTab:Section({
-    Title = "TERMAKASIH SUDAH MENGGUNAKAN SCRIPT INI ",
+    Title = "TERMAKASIH SUDAH MENGGUNAKAN SCRIPT INI TQ ",
     TextSize = 20,
 })
 InfoTab:Section({
@@ -762,7 +762,7 @@ Draggable = true,
 
 -- Tambah tag
 Window:Tag({
-    Title = "FREE",
+    Title = "FREE USER",
     Color = Color3.fromHex("#30ff6a"),
     Radius = 10,
 })
