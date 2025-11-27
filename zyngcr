@@ -503,6 +503,7 @@ local mountRoutes = {
     ["🏞 MT Netizen"] = "https://raw.githubusercontent.com/neeoXCode969/Bagen/refs/heads/main/netizen.lua",
     ["👾 Mount Zora"] = "https://raw.githubusercontent.com/neeoXCode969/Zora/refs/heads/main/zora.lua",
     ["🌷 Mount Forever"] = "https://raw.githubusercontent.com/neeoXCode969/Forever-/refs/heads/main/forever.lua",
+    ["🚶 yahayuk wasd"] = "https://raw.githubusercontent.com/neeoXCode969/Wasd/refs/heads/main/yahayukwasdfix.lua",
 }
 
 -- Dropdown Mount
