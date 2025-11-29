@@ -412,7 +412,7 @@ local MainTab = Window:Tab({
     Default = true
 })
 local SettingsTab = Window:Tab({
-    Title = "Tools",
+    Title = "Script",
     Icon = "geist:settings-sliders",
 })
 local tampTab = Window:Tab({
@@ -705,6 +705,15 @@ SettingsTab:Button({
     Desc = "Load Gling GUI",
     Callback = function()
         loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fling-Gui-Op-47914"))()
+    end
+})
+
+SettingsTab:Button({
+    Title = "CREATE Auto summit",
+    Icon = "lucide:zap",
+    Desc = "Load Create summit",
+    Callback = function()
+        loadstring(game:HttpGet("https://pastefy.app/QzJRqnp6/raw"))()
     end
 })
 
