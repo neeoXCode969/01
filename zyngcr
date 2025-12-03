@@ -531,7 +531,7 @@ MainTab:Dropdown({
 
 -- Tombol Load Selected
 MainTab:Button({
-    Title = "Load Selected Mountain",
+    Title = "LOAD RUTE MOUNT",
     Icon = "lucide:download",
     Desc = "Memuat route sesuai mount",
     Callback = function()
