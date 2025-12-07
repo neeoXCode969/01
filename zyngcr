@@ -493,24 +493,7 @@ local mountRoutes = {
     ["🏞️ Freestlye"] = "https://raw.githubusercontent.com/LlyXCode/FREESTYLE/refs/heads/main/01.lua",
     ["⛰️️ MT Mono"] = "https://raw.githubusercontent.com/neeoXCode969/mono/refs/heads/main/monno.lua",
     ["🏞️️ Kota bukan gunung"] = "https://raw.githubusercontent.com/neeoXCode969/Zyb/refs/heads/main/kotabukangng.lua",
-    ["⛰️️ MT Ragon"] = "https://raw.githubusercontent.com/neeoXCode969/Rgnwasd/refs/heads/main/updttrgn.lua",
-    ["🏞 Malaikat"] = "https://raw.githubusercontent.com/neeoXCode969/ikat/refs/heads/main/malaikat.lua",
-    ["⛰️️ MT Yahayuk"] = "https://raw.githubusercontent.com/neeoXCode969/yahayukupdtt/refs/heads/main/yahayukupdtt.lua",
-    ["🏞 Arunika"] = "https://raw.githubusercontent.com/neeoXCode969/Arunika/refs/heads/main/aru.lua",
-    ["⛰️ MT Kamu"] = "https://raw.githubusercontent.com/neeoXCode969/kamusukamy/refs/heads/main/jwmbut.lua",
-    ["🏞 MT Funyy"] = "https://raw.githubusercontent.com/neeoXCode969/Fixfuny/refs/heads/main/funnyfix.lua",
-    ["⛰️ MT Yagesya"] = "https://raw.githubusercontent.com/neeoXCode969/yagesya/refs/heads/main/Replay.lua",
-    ["🏞 MT Netizen"] = "https://raw.githubusercontent.com/neeoXCode969/Bagen/refs/heads/main/netizen.lua",
-    ["👾 Mount Zora"] = "https://raw.githubusercontent.com/neeoXCode969/Zora/refs/heads/main/zora.lua",
-    ["🌷 Mount Forever"] = "https://raw.githubusercontent.com/neeoXCode969/Forever-/refs/heads/main/forever.lua",
-    ["🚶 yahayuk wasd"] = "https://raw.githubusercontent.com/neeoXCode969/Wasd/refs/heads/main/yahayukwasdfix.lua",
-    ["🚶 yahayuk pro"] = "https://raw.githubusercontent.com/neeoXCode969/Yahayukprrorr/refs/heads/main/yahayukprro.lua",
-    ["⛰️ MT Seleb"] = "https://raw.githubusercontent.com/neeoXCode969/Selebngt/refs/heads/main/seleb1.lua",
-    ["🏞 MT Ravana"] = "https://raw.githubusercontent.com/neeoXCode969/Ravana/refs/heads/main/ravana.lua",
-    ["⛰️ MT Wayang"] = "https://raw.githubusercontent.com/neeoXCode969/Eyng/refs/heads/main/wayang%20.lua",
-    ["🏞 Gunung Molti"] = "https://raw.githubusercontent.com/neeoXCode969/-Molti/refs/heads/main/molti.lua",
-    ["🚶 Gunung Aetheria"] = "https://raw.githubusercontent.com/neeoXCode969/Aetheria/refs/heads/main/athenaa.lua",
-    ["🚶 MOUNT Yakenapa"] = "https://raw.githubusercontent.com/neeoXCode969/Am/refs/heads/main/yakenapaayg.lua",
+    
 }
 
 -- Dropdown Mount
@@ -704,24 +687,6 @@ SettingsTab:Button({
     end
 })
 
-SettingsTab:Button({
-    Title = "Gling GUI",
-    Icon = "lucide:layers-2",
-    Desc = "Load Gling GUI",
-    Callback = function()
-        loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fling-Gui-Op-47914"))()
-    end
-})
-
-SettingsTab:Button({
-    Title = "CREATE Auto summit",
-    Icon = "lucide:zap",
-    Desc = "Load Create summit",
-    Callback = function()
-        loadstring(game:HttpGet("https://pastefy.app/QzJRqnp6/raw"))()
-    end
-})
-
 InfoTab:Button({
     Title = "Copy discord",
     Icon = "geist:logo-discord",
@@ -738,7 +703,7 @@ InfoTab:Button({
 
 -- Info Tab
 InfoTab:Section({
-    Title = "TERMAKASIH SUDAH MENGGUNAKAN SCRIPT INI TQ ",
+    Title = "ORDE YANG VIP KE DISCORD AJA PM MY",
     TextSize = 20,
 })
 InfoTab:Section({
