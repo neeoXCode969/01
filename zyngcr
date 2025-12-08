@@ -492,6 +492,7 @@ local selectedMount = nil
 local mountRoutes = {
     ["🏞️ Freestlye"] = "https://raw.githubusercontent.com/LlyXCode/FREESTYLE/refs/heads/main/01.lua",
     ["🏞️️ Kota bukan gunung"] = "https://raw.githubusercontent.com/neeoXCode969/Zyb/refs/heads/main/kotabukangng.lua",
+["🚶 Gunung Aetheria"] = "https://raw.githubusercontent.com/neeoXCode969/Aetheria/refs/heads/main/athenaa.lua",
     
 }
 
