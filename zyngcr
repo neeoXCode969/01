@@ -493,6 +493,8 @@ local mountRoutes = {
     ["🏞️ Freestlye"] = "https://raw.githubusercontent.com/sukarsisaheb-dev/David3/a82d4d6e14f09cb18cdbb1b9b7abfb4c0ba61150/Sangkalan.lua",
     ["🏞️️ Kota bukan gunung"] = "https://raw.githubusercontent.com/neeoXCode969/Zyb/refs/heads/main/kotabukangng.lua",
     ["🚶 Gunung Aetheria"] = "https://raw.githubusercontent.com/neeoXCode969/Aetheria/refs/heads/main/athenaa.lua",
+    ["🏞 MOUNT Sendang"] ="https://raw.githubusercontent.com/neeoXCode969/Jalur-aetherai-/refs/heads/main/sendang.lua",
+}
 
     
 }
