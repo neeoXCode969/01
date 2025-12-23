@@ -358,8 +358,8 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 local Window = WindUI:CreateWindow({
     Title = "Zynn〢Exploit",
     Icon = "lucide:mountain-snow",
-    Author = "by berlyy",
-    Folder = "By berlyy",
+    Author = "by Charles/Zyy",
+    Folder = "By Charles/Zyy",
     Size = UDim2.fromOffset(580, 460),
     Theme = "Midnight",
     Resizable = true,
@@ -493,7 +493,7 @@ local mountRoutes = {
     ["🏞️ Freestlye"] = "https://raw.githubusercontent.com/sukarsisaheb-dev/David3/a82d4d6e14f09cb18cdbb1b9b7abfb4c0ba61150/Sangkalan.lua",
     ["🏞️️ Kota bukan gunung"] = "https://raw.githubusercontent.com/neeoXCode969/Zyb/refs/heads/main/kotabukangng.lua",
     ["🚶 Gunung Aetheria"] = "https://raw.githubusercontent.com/neeoXCode969/Aetheria/refs/heads/main/athenaa.lua",
-    ["🏞 MOUNT Sendang"] ="https://raw.githubusercontent.com/neeoXCode969/Jalur-aetherai-/refs/heads/main/sendang.lua",
+    ["🏞 MOUNT Sendang"] = "https://raw.githubusercontent.com/neeoXCode969/Jalur-aetherai-/refs/heads/main/sendang.lua",
 }
 
     
