@@ -493,6 +493,7 @@ local mountRoutes = {
     ["🏞️ Freestlye"] = "https://raw.githubusercontent.com/LlyXCode/FREESTYLE/refs/heads/main/01.lua",
     ["⛰️️ MT Mono"] = "https://raw.githubusercontent.com/neeoXCode969/mono/refs/heads/main/monno.lua",
     ["🏞️️ Kota bukan gunung"] = "https://raw.githubusercontent.com/neeoXCode969/Zyb/refs/heads/main/kotabukangng.lua",
+    ["🗻 MT Gemi"]  = "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_jalur_wasd.json",
 }
 
 -- Dropdown Mount
