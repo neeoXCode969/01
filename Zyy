@@ -494,6 +494,7 @@ local mountRoutes = {
     ["⛰️️ MT Mono"] = "https://raw.githubusercontent.com/neeoXCode969/mono/refs/heads/main/monno.lua",
     ["🏞️️ Kota bukan gunung"] = "https://raw.githubusercontent.com/neeoXCode969/Zyb/refs/heads/main/kotabukangng.lua",
     ["🗻 MT Gemi"]  = "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_jalur_wasd.json",
+    ["🗻 MT Pagi" = "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_pagi.json",
 }
 
 -- Dropdown Mount
